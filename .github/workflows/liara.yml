@@ -27,4 +27,4 @@ jobs:
         run: npm install -g @liara/cli@6
 
       - name: Deploy to Liara
-        run: liara deploy --api-token=${{ secrets.LIARA_API_TOKEN }} --detach
+        run: liara deploy --api-token=${{ secrets.LIARA_API_TOKEN }} --detach  

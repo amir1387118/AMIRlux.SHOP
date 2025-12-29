@@ -1,4 +1,8 @@
-
+{
+    "node": {
+    "mirror": false
+  }
+}
 {
   "app": "amirlux",
   "platform": "static",
